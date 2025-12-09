@@ -1,0 +1,36 @@
+POS-NR.,BENENNUNG,BESCHREIBUNG,SW-Konfigurationsname(Configuration Name),Quelle,<FONT size=3.5>MENGE
+1,20x20_extrude,,width1,,4
+2,20x20_extrude,,width2_smaller,,6
+3,20x20_extrude,,height,,4
+4,angle_bracket,,Standard,https://jlcmc.com/product/s/T02/TPDD/rectangular-flat-plate-eu-20-series-connector,24
+5,pipette_plate,,Standard,,1
+6,cylinder,,Standard,https://www.amazon.de/iMeistek-Edelstahlrohre-Au%C3%9Fendurchmesser-Edelstahlrohr-industrielles/dp/B0D4Z2MTZ4/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1JU9HIEA6P2RA&dib=eyJ2IjoiMSJ9.jnWEahXuPdov6URwkm8_oF7-SP5LV8-AsjaRKrAYJqeTTMChXo-aW1AjUVr5GMo5A3iWDVmSsiRyLPWaSEm554SmJFTquEKnvzbSjky7AvVjEg8yE1_gYeU-sBvrUiDWbW2_15T172HXxngbWQQMAN7-StM9fJNo3wgycdpN3I3DllLUlC72OORMfIV1oGHIK1zK9UbOApas6hCndnECyxQPHi47GljKr6z2-OBdBFTFP5Spd-0aCKJd4JV4Pz6cfWFMfwxb7ouZ93CRAgdWACt2MAX2VzLyAUzRxSJWWPc.oZ0zbLCu_7ziRCwktJ-SZmq6WBAKGSUCW2NNAEBVA1w&dib_tag=se&keywords=8mm%2Brohr%2B0.5mm&qid=1754306014&sprefix=8mm%2Brohr%2B0.5mm%2Caps%2C74&sr=8-4&th=1,96
+7,pipette_tip,,Standard,,96
+8,pipette_interface_plate,,Standard,,1
+9,20x20_extrude,,width3,,4
+10,20x20_extrude,,width4_smaller,,4
+11,plunger_plate,,Standard,,1
+12,AbstandHalter,,Standard,https://de.aliexpress.com/item/1005009582659118.html?spm=a2g0o.productlist.main.1.51ea9JMT9JMTfq&algo_pvid=53280039-8940-4735-b618-ec33b39aafd5&algo_exp_id=53280039-8940-4735-b618-ec33b39aafd5-0&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2116.54%2110.89%21%21%2118.69%2112.31%21%40210384b217543188708983786e2796%2112000049534193596%21sea%21DE%210%21ABX&curPageLogUid=jIn2JeZU3i5P&utparam-url=scene%3Asearch%7Cquery_from%3A,96
+13,o-ring,,3x7x2,https://www.amazon.de/Briny-River-Au%C3%9Fendurchmesser-geeignet-Werkzeuge/dp/B0F7WSQNKX/ref=sr_1_3_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1OJODFFKXDGD8&dib=eyJ2IjoiMSJ9.RILChJ5Qy1EZ4T6c4TUMJH9NSxwfLBnoH1lAYM3K-X1uq4CoZQtWkaiQc6QJkVUdZY2iSprrRUzG9yibeTo0PCYOqL_Y4SORuel9PKjgxQ5GjMBvvWYLXevZdASIzZMAZ1PjRQnf3KN_JG4s4320II8oO14iVsuLaiTdQRCy1cnrs0qbF_EhqGAoHHWxbdLu8ryQnAqM_8_8iBIHxdFGv4BPMWD8CR78K9QF4k_wn5xQs80WnTqxOi3lxktQ34eBO2DH6kBTlJn4x1On5PgfuiJ_xM7b_1JOpxLIz1lkUvU.Qd5ADx3qSvBkqpwzQn6Ul4i58wfvdvgLsUgQdthLbE0&dib_tag=se&keywords=6mm+o+ring+OD+1.5+mm&qid=1754305397&sprefix=6mm+o+ring+od+1.5+mm%2Caps%2C90&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,96
+14,B18.3.4M - 3 x 0.5 x 8 SBHCS --N,,B18.3.4M - 3 x 0.5 x 8 SBHCS --N,,192
+15,o-ring_spacer,,2,,96
+16,B18.22M - Plain washer, 2.5 mm, narrow,,B18.22M - Plain washer, 2.5 mm, narrow,,96
+17,NEMA17_stepper_motor,,Standard,,4
+18,T8_lead_screw_nut,,Standard,,4
+19,Schiene_HIWIN_MGN9H,,Standard,,1
+20,slider_HIWIN_MGN9H,,Standard,,2
+21,lever_cutout,,36mm_lever,,1
+22,lever_cutout,,36mm_link,,1
+23,bearing_37x25x7,,23x16x4,,4
+24,square_stock,,Standard,https://www.hellweg.de/a/mytool-vierkant-stange-12-x-12-mm-1m-warmgewalzt-558018,2
+25,linkage1,,Standard,,4
+26,bearing_insert,,Standard,,4
+27,lever_cutout,,36mm_link_offset,,2
+28,bearing_plate,,Standard,,2
+29,bearing_insert_lid,,Standard,,4
+30,bearing_holder,,Standard,,4
+31,bed,,Standard,,1
+32,cover_front_back,,Standard,,2
+33,slider_holder,,Standard,,11
+34,interface_plate_smaller,,link_iface,,2
+35,interface_plate_smaller,,Standard,,2
